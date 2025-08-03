@@ -1,0 +1,13 @@
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/controller/TicketController.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/controller/AuthController.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/repository/UserRepository.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/service/TicketService.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/service/AuthService.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/security/JwtTokenProvider.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/model/User.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/model/Role.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/repository/TicketRepository.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/config/WebConfig.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/model/Ticket.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/SupportSystemApplication.java
+/Users/anthonymathenge/Desktop/Support system/backend/src/main/java/security/WebSecurityConfig.java
