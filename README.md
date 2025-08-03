@@ -1,0 +1,3 @@
+Finally uploading this project after letting it sit in my IDE folder for way too long. This is a simple support ticket system built with java (backend) and  
+HTML/CSS/JS (frontend). It includes basic user authentication, ticket creation, and status updates. 
+Everything runs locally with a MySQL database. Just something I built to practice full-stack development and working with Java backend frameworks.
